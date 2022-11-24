@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/martinchogimenez/UI-testing-with-Cypress/issues"
   },
-  "homepage": "https://github.com/martinchogimenez/UI-testing-with-Cypress#readme"
+  "homepage": "https://github.com/martinchogimenez/UI-testing-with-Cypress#readme",
+  "dependencies": {
+    "cypress": "^11.2.0"
+  }
 }
