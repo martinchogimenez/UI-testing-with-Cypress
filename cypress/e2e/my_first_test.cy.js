@@ -1,5 +1,8 @@
 /// <reference types="cypress" />
 
+//In this example we are programming a sample login testing, interacting with elements, timeouts, 
+
+//and other basics Cypress functionalities.
 
 it('google test', function() {
 
